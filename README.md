@@ -20,7 +20,7 @@ SpaceX advertises Falcon 9 rocket launches for 62 million dollars, while other p
 The primary metric for this project is classification accuracy, which is defined as the number of correct predictions divided by the total number of predictions:
 $$\text{Accuracy} = \frac{TP + TN}{TP + FP + TN + FN}$$
 
-![Confusion matrix](img/plots/Confusion%20matrix.PNG)
+![Confusion matrix](plots/Confusion%20matrix.PNG)
 
 ## Deliverables
 
